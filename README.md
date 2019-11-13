@@ -4,7 +4,8 @@ Blazing fast ECS game networking protocol for MMO(Massively multiplayer online g
 
 Features:
 - Automatic serialization/deserialization
-- Automatic component syncronization
+- Automatic component synchronization (replication of game state)
+- Eventual consistency synchronization technique
 - Multi-threaded message-driven I/O
 - Zero GC allocations
 - Custom memory allocator
