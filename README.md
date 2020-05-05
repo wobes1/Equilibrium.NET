@@ -2,6 +2,8 @@
 
 Blazing fast ECS game networking protocol for MMO(Massively multiplayer online games). 
 
+[Forum post](https://forum.unity.com/threads/showcase-enet-unity-ecs-5000-real-time-player-simulation.605656)
+
 Features:
 - Automatic serialization/deserialization
 - Automatic component synchronization (replication of game state)
